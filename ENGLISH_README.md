@@ -1,7 +1,7 @@
 # markdown.md - what is it?
 Markdown is a simple markup language originally created by John Gruber and Aaron Swartz. Markdown converts your text into valid HTML. Markdown is often used to format README files, to write messages in online discussion forums and to create rich text using a simple text editor.
 
-![image](https://user-images.githubusercontent.com/89877899/153756883-56901d94-a7ba-4211-9a2f-3b27bc0215ca.png)
+![image](https://user-images.githubusercontent.com/89877899/153759851-7dde4771-2ce5-4086-a392-5739a9e6f1df.png)
 ## markdown - how do use it?
 > Files have endings (e.g: .xls, .pdf, .png) and the markdown ending is "__.md__", so whenever you see a __.md__ file it is written in markdown! When it comes to Github usage, you must create a repository first and then add files with **.md** endings.
 
