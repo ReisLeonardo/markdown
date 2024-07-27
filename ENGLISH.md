@@ -1,5 +1,5 @@
 # markdown.md - what is it?
-[Português](https://github.com/ReisLeonardo/markdown/blob/main/ENGLISH.md) | [中文](https://github.com/ReisLeonardo/markdown/blob/main/%E4%B8%AD%E6%96%87.md)
+[Português](https://github.com/ReisLeonardo/markdown/blob/main/README.md) | [中文](https://github.com/ReisLeonardo/markdown/blob/main/%E4%B8%AD%E6%96%87.md)
 
 Markdown is a simple markup language originally created by John Gruber and Aaron Swartz. Markdown converts your text into valid HTML. Markdown is often used to format README files, to write messages in online discussion forums and to create rich text using a simple text editor.
 
